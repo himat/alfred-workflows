@@ -104,7 +104,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Hima T</string>
+	<string>Hima Tammineedi</string>
 	<key>description</key>
 	<string>If the most recent item in the clipboard is an image, it is uploaded to imgur, and the URL is opened and copied to clipboard</string>
 	<key>disabled</key>
@@ -385,6 +385,6 @@ rm "${img}"</string>
 	<key>version</key>
 	<string>1.1.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://himat.github.io</string>
 </dict>
 </plist>
