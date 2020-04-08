@@ -8,11 +8,180 @@
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
+		<key>2CADAA83-20F9-47E1-AF60-ADEA07AA0589</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A4708CA1-5DE9-42F0-8BAC-4578DEA235ED</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2D0F1826-49DF-4B92-998B-EF26F813B710</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4F0433BA-C9B9-49D6-92E6-D936D32F9088</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3CC787A1-5AB0-46EF-92D8-E8D831C1D6B2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0A51EE54-74E2-471C-80EE-77D67A28CCB2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4E0B27E6-8CA9-4027-95F0-F42B80A481A5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D42F2CA5-A953-447C-A48B-A6FD1FF39BB8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4F0433BA-C9B9-49D6-92E6-D936D32F9088</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2CADAA83-20F9-47E1-AF60-ADEA07AA0589</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5A3A77FC-40B5-46EE-A729-453CBB76D273</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>88554AE7-072B-477A-B657-2E20BB6E9007</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>71E64234-D127-4B85-930A-5EFD35C99DB5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A40D3C53-8D9D-4BC1-8534-AC4D7B5865C0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>772D66FA-9683-4AC1-B3DF-E0603F3A65EF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4E0B27E6-8CA9-4027-95F0-F42B80A481A5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8FCD6A95-56E9-4986-82E7-4ED7A4C33B77</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5A3A77FC-40B5-46EE-A729-453CBB76D273</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9516D1AC-8DB6-49FD-A032-3EEC01DE6A09</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>772D66FA-9683-4AC1-B3DF-E0603F3A65EF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>9A1913AF-2E7E-4473-8E3E-908AC64DE802</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>E1467D09-3D10-4039-8CB7-B7A582F5ABFC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A40D3C53-8D9D-4BC1-8534-AC4D7B5865C0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>62CA7D50-D348-4B0C-9E24-9AACEEE34777</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B30EE5E2-4F30-45CD-B93D-7E92EFB58CE1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3CC787A1-5AB0-46EF-92D8-E8D831C1D6B2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D99173F2-A4BE-4C2E-A153-FF1D1C69C573</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8FCD6A95-56E9-4986-82E7-4ED7A4C33B77</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -48,12 +217,247 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A4708CA1-5DE9-42F0-8BAC-4578DEA235ED</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+/usr/local/bin/node nat_dates.js "$query" "short"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/usr/local/bin/node</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2CADAA83-20F9-47E1-AF60-ADEA07AA0589</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Enter a natural language date text</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>4F0433BA-C9B9-49D6-92E6-D936D32F9088</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>focusedappvariable</key>
 				<false/>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>keyword</key>
-				<string>;rdate</string>
+				<string>d</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>2D0F1826-49DF-4B92-998B-EF26F813B710</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Generates Roam formatted date</string>
+				<key>text</key>
+				<string>Enter a natural language date text</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>772D66FA-9683-4AC1-B3DF-E0603F3A65EF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Formats dates for Roam e.g. [[&lt;date&gt;]]
+query=$1
+
+/usr/local/bin/node nat_dates.js "$query" "roam"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/usr/local/bin/node</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4E0B27E6-8CA9-4027-95F0-F42B80A481A5</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>rd</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>9516D1AC-8DB6-49FD-A032-3EEC01DE6A09</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>D42F2CA5-A953-447C-A48B-A6FD1FF39BB8</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>ld</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>D99173F2-A4BE-4C2E-A153-FF1D1C69C573</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>88554AE7-072B-477A-B657-2E20BB6E9007</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>query=$1
+
+/usr/local/bin/node nat_dates.js "$query" "long"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>/usr/local/bin/node</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5A3A77FC-40B5-46EE-A729-453CBB76D273</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Generates long formatted date</string>
+				<key>text</key>
+				<string>Enter a natural language date text</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8FCD6A95-56E9-4986-82E7-4ED7A4C33B77</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>tod</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.snippet</string>
@@ -61,6 +465,29 @@
 			<string>9A1913AF-2E7E-4473-8E3E-908AC64DE802</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/local/bin/node nat_dates.js "today" "short"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>./dates.sh</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E1467D09-3D10-4039-8CB7-B7A582F5ABFC</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -82,12 +509,29 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>rtod</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>B30EE5E2-4F30-45CD-B93D-7E92EFB58CE1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>./dates.sh</string>
+				<string>/usr/local/bin/node nat_dates.js "today" "roam"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -98,7 +542,81 @@
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>E1467D09-3D10-4039-8CB7-B7A582F5ABFC</string>
+			<string>3CC787A1-5AB0-46EF-92D8-E8D831C1D6B2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>0A51EE54-74E2-471C-80EE-77D67A28CCB2</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>ltod</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>71E64234-D127-4B85-930A-5EFD35C99DB5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>62CA7D50-D348-4B0C-9E24-9AACEEE34777</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/local/bin/node nat_dates.js "today" "long"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>./dates.sh</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A40D3C53-8D9D-4BC1-8534-AC4D7B5865C0</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -107,26 +625,152 @@
 	<string>Text snippets to easily create dates</string>
 	<key>uidata</key>
 	<dict>
+		<key>0A51EE54-74E2-471C-80EE-77D67A28CCB2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>615</integer>
+			<key>ypos</key>
+			<integer>640</integer>
+		</dict>
+		<key>2CADAA83-20F9-47E1-AF60-ADEA07AA0589</key>
+		<dict>
+			<key>xpos</key>
+			<integer>615</integer>
+			<key>ypos</key>
+			<integer>15</integer>
+		</dict>
+		<key>2D0F1826-49DF-4B92-998B-EF26F813B710</key>
+		<dict>
+			<key>xpos</key>
+			<integer>175</integer>
+			<key>ypos</key>
+			<integer>15</integer>
+		</dict>
+		<key>3CC787A1-5AB0-46EF-92D8-E8D831C1D6B2</key>
+		<dict>
+			<key>xpos</key>
+			<integer>405</integer>
+			<key>ypos</key>
+			<integer>640</integer>
+		</dict>
+		<key>4E0B27E6-8CA9-4027-95F0-F42B80A481A5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>615</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
+		<key>4F0433BA-C9B9-49D6-92E6-D936D32F9088</key>
+		<dict>
+			<key>xpos</key>
+			<integer>400</integer>
+			<key>ypos</key>
+			<integer>15</integer>
+		</dict>
+		<key>5A3A77FC-40B5-46EE-A729-453CBB76D273</key>
+		<dict>
+			<key>xpos</key>
+			<integer>615</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>62CA7D50-D348-4B0C-9E24-9AACEEE34777</key>
+		<dict>
+			<key>xpos</key>
+			<integer>615</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>71E64234-D127-4B85-930A-5EFD35C99DB5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>180</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>772D66FA-9683-4AC1-B3DF-E0603F3A65EF</key>
+		<dict>
+			<key>xpos</key>
+			<integer>405</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
+		<key>88554AE7-072B-477A-B657-2E20BB6E9007</key>
+		<dict>
+			<key>xpos</key>
+			<integer>825</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>8FCD6A95-56E9-4986-82E7-4ED7A4C33B77</key>
+		<dict>
+			<key>xpos</key>
+			<integer>405</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>9516D1AC-8DB6-49FD-A032-3EEC01DE6A09</key>
+		<dict>
+			<key>xpos</key>
+			<integer>180</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
 		<key>9A1913AF-2E7E-4473-8E3E-908AC64DE802</key>
 		<dict>
 			<key>xpos</key>
-			<integer>185</integer>
+			<integer>180</integer>
 			<key>ypos</key>
-			<integer>240</integer>
+			<integer>475</integer>
+		</dict>
+		<key>A40D3C53-8D9D-4BC1-8534-AC4D7B5865C0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>405</integer>
+			<key>ypos</key>
+			<integer>800</integer>
+		</dict>
+		<key>A4708CA1-5DE9-42F0-8BAC-4578DEA235ED</key>
+		<dict>
+			<key>xpos</key>
+			<integer>820</integer>
+			<key>ypos</key>
+			<integer>15</integer>
+		</dict>
+		<key>B30EE5E2-4F30-45CD-B93D-7E92EFB58CE1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>180</integer>
+			<key>ypos</key>
+			<integer>640</integer>
 		</dict>
 		<key>C2C4D1BC-1E75-442D-85B1-867C8DB8DB72</key>
 		<dict>
 			<key>xpos</key>
-			<integer>660</integer>
+			<integer>615</integer>
 			<key>ypos</key>
-			<integer>245</integer>
+			<integer>475</integer>
+		</dict>
+		<key>D42F2CA5-A953-447C-A48B-A6FD1FF39BB8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>825</integer>
+			<key>ypos</key>
+			<integer>165</integer>
+		</dict>
+		<key>D99173F2-A4BE-4C2E-A153-FF1D1C69C573</key>
+		<dict>
+			<key>xpos</key>
+			<integer>180</integer>
+			<key>ypos</key>
+			<integer>320</integer>
 		</dict>
 		<key>E1467D09-3D10-4039-8CB7-B7A582F5ABFC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>440</integer>
+			<integer>405</integer>
 			<key>ypos</key>
-			<integer>245</integer>
+			<integer>475</integer>
 		</dict>
 	</dict>
 	<key>variablesdontexport</key>
