@@ -21,6 +21,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>318C90F2-7A45-4EDB-BC7B-D072F6CD0380</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2DE12A1C-914F-4D52-B3BA-247425C8FAF0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3C021AAD-CD33-4298-AC6F-6D97F5D21BE5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>318C90F2-7A45-4EDB-BC7B-D072F6CD0380</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>76A419D1-CAAC-427A-81D8-B56525BD8725</key>
 		<array>
 			<dict>
@@ -358,6 +384,65 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>2DE12A1C-914F-4D52-B3BA-247425C8FAF0</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Converts (yyy) zzz-wwww phone to yyy-zzz-wwwww phone (uses latest clipboard element)
+
+./format_phone.sh</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>318C90F2-7A45-4EDB-BC7B-D072F6CD0380</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>fphone</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>3C021AAD-CD33-4298-AC6F-6D97F5D21BE5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -369,6 +454,27 @@
 			<integer>100</integer>
 			<key>ypos</key>
 			<integer>520</integer>
+		</dict>
+		<key>2DE12A1C-914F-4D52-B3BA-247425C8FAF0</key>
+		<dict>
+			<key>xpos</key>
+			<integer>580</integer>
+			<key>ypos</key>
+			<integer>700</integer>
+		</dict>
+		<key>318C90F2-7A45-4EDB-BC7B-D072F6CD0380</key>
+		<dict>
+			<key>xpos</key>
+			<integer>315</integer>
+			<key>ypos</key>
+			<integer>700</integer>
+		</dict>
+		<key>3C021AAD-CD33-4298-AC6F-6D97F5D21BE5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>110</integer>
+			<key>ypos</key>
+			<integer>700</integer>
 		</dict>
 		<key>6F88759E-E65B-47C9-8325-3B63138EE7CC</key>
 		<dict>

@@ -283,7 +283,7 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>keyword</key>
-				<string>d</string>
+				<string>da</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.snippet</string>
@@ -345,7 +345,7 @@ query=$1
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>keyword</key>
-				<string>rd</string>
+				<string>rda</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.snippet</string>
@@ -379,7 +379,7 @@ query=$1
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>keyword</key>
-				<string>ld</string>
+				<string>lda</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.trigger.snippet</string>
